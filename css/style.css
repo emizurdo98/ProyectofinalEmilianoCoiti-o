@@ -1,0 +1,80 @@
+@charset "UTF-8";
+.main-inicio {
+  background-image: url(../img/agustin-fernandez-1Pmp9uxK8X8-unsplash.png);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+}
+
+.main-contacto {
+  background-image: url(../img/pexels-алекке-блажин-10248165.jpg);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+}
+
+.main-servicios {
+  background-image: url(../img/pexels-dmitry-zvolskiy-1570807.jpg);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+}
+
+.main-nosotros {
+  background-image: url(../img/Publicidad-para-barberia.jpg);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+}
+
+.main-reservas {
+  background-image: url(../img/reservasimg.webp);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: #fffafa;
+}
+
+h3 {
+  color: aliceblue;
+}
+
+p {
+  background-color: red;
+}
+
+img {
+  width: 20rem;
+  height: auto;
+}
+
+main {
+  height: 35rem;
+}
+
+.servicios {
+  height: 35rem;
+}
+
+.logo {
+  width: 1rem;
+}
+
+@media (max-width: 800px) {
+  main {
+    height: 80rem;
+  }
+}
+@media (max-width: 1200px) and (min-width: 800px) {
+  main {
+    height: 60rem;
+  }
+}
+.form-group .label-white {
+  color: #fffafa;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+/*# sourceMappingURL=style.css.map */
